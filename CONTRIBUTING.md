@@ -1,4 +1,4 @@
-# Contributing to Enatega Multi Vendor Food Delivery System
+# Contributing to EatsGram Multi Vendor Food Delivery System
 
 First off, thank you for considering contributing to our project! Your help is greatly appreciated.
 
@@ -27,8 +27,8 @@ If you would like to contribute code, follow these steps:
 1. **Fork the repository**: Create a fork of the repository on GitHub.
 2. **Clone your fork**: Clone your fork to your local machine.
     ```bash
-    git clone https://github.com/<your-username>/food-delivery-multivendor.git
-    cd food-delivery-multivendor
+    git clone https://github.com/<your-username>/EatsGram-New.git
+    cd EatsGram-New
     ```
 3. **Create a new branch**: Create a new branch for your feature or bugfix.
     ```bash
@@ -65,7 +65,7 @@ By participating in this project, you agree to abide by our [Code of Conduct](CO
 
 Ensure you have the following installed:
 
--   Node.js (version 14.0 to 16.0)
+-   Node.js (version 18.0 to 20.0)
 -   npm or yarn
 
 ### Setting Up
@@ -73,8 +73,8 @@ Ensure you have the following installed:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/EatsGram/food-delivery-multivendor.git
-    cd food-delivery-multivendor
+    git clone https://github.com/2lokeshrao/EatsGram-New.git
+    cd EatsGram-New
     ```
 
 2. **Install dependencies**:
@@ -91,3 +91,7 @@ Ensure you have the following installed:
     # or
     yarn start
     ```
+
+## Questions?
+
+Feel free to open an issue or contact us at lokeshrao050@gmail.com for any questions or concerns.

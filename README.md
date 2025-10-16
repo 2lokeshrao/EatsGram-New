@@ -1,11 +1,11 @@
 <div align="right">
-<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/EatsGram-Team/EatsGram-Food-Delivery-Solution" style="text-decoration:none">
+<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/2lokeshrao/EatsGram-New" style="text-decoration:none">
   <img src="https://img.shields.io/badge/-0d1117?logo=facebook"  width="40" height="30">
 </a>
-<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EatsGram-Team/EatsGram-Food-Delivery-Solution" style="text-decoration:none">
+<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/2lokeshrao/EatsGram-New" style="text-decoration:none">
   <img src="https://img.shields.io/badge/-0d1117?logo=linkedin"  width="40" height="30">
 </a>
-<a target="_blank" href="https://twitter.com/intent/tweet?&url=https://github.com/EatsGram-Team/EatsGram-Food-Delivery-Solution&via=TWITTER-HANDLE" style="text-decoration:none">
+<a target="_blank" href="https://twitter.com/intent/tweet?&url=https://github.com/2lokeshrao/EatsGram-New&via=TWITTER-HANDLE" style="text-decoration:none">
   <img src="https://img.shields.io/badge/-0d1117?logo=twitter" width="40" height="30">
 </a>
 
@@ -20,26 +20,14 @@
 
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/License-MIT-red)](https://github.com/EatsGram-Team/EatsGram-Food-Delivery-Solution/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/EatsGram-Team/EatsGram-Food-Delivery-Solution.svg)](https://github.com/EatsGram-Team/EatsGram-Food-Delivery-Solution/stargazers)
-[![Forks](https://img.shields.io/github/forks/EatsGram-Team/EatsGram-Food-Delivery-Solution.svg)](https://github.com/EatsGram-Team/EatsGram-Food-Delivery-Solution/network/members)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/EatsGram-Team/EatsGram-Food-Delivery-Solution)
-[![GitHub contributors](https://img.shields.io/github/contributors/EatsGram-Team/EatsGram-Food-Delivery-Solution)](https://github.com/EatsGram-Team/EatsGram-Food-Delivery-Solution/graphs/contributors)
-[![Open Pull Requests](https://img.shields.io/github/issues-pr-raw/EatsGram-Team/EatsGram-Food-Delivery-Solution.svg)](https://github.com/EatsGram-Team/EatsGram-Food-Delivery-Solution/pulls)
-[![Activity](https://img.shields.io/github/last-commit/EatsGram-Team/EatsGram-Food-Delivery-Solution.svg)](https://github.com/EatsGram-Team/EatsGram-Food-Delivery-Solution/commits/main)
-[![YouTube Channel](https://img.shields.io/badge/Watch_us-Youtube-red)](https://www.youtube.com/@ninjascode509)
-[![Company Website](https://img.shields.io/badge/Visit_us-Website-blue)](https://EatsGram.com)
-[![Closed Issues](https://img.shields.io/github/issues-closed/EatsGram-Team/EatsGram-Food-Delivery-Solution?color=success)](https://github.com/EatsGram-Team/EatsGram-Food-Delivery-Solution/issues?q=is%3Aissue+is%3Aclosed)
-[![Closed Pull Requests](https://img.shields.io/badge/Closed%20Pull%20Requests-View%20on%20GitHub-blue.svg)](https://github.com/EatsGram-Team/EatsGram-Food-Delivery-Solution/pulls?q=is%3Apr+is%3Aclosed)
-
-</div>
-
-<div align="center">
-
-[![Static Badge](https://img.shields.io/badge/facebook-blue?logo=facebook&logoColor=Blue&color=%23fbfbfb)](https://www.facebook.com/EatsGram)
-[![Static Badge](https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=D815BE&color=%23fcfcfc)](https://www.instagram.com/EatsGram.nb/)
-[![Static Badge](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=blue&color=%23fcfcfc)](https://twitter.com/EnategaA)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=darkblue&color=%23fcfcfc)](https://www.linkedin.com/company/14583783/)
+[![Static Badge](https://img.shields.io/badge/License-MIT-red)](https://github.com/2lokeshrao/EatsGram-New/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/2lokeshrao/EatsGram-New.svg)](https://github.com/2lokeshrao/EatsGram-New/stargazers)
+[![Forks](https://img.shields.io/github/forks/2lokeshrao/EatsGram-New.svg)](https://github.com/2lokeshrao/EatsGram-New/network/members)
+[![GitHub contributors](https://img.shields.io/github/contributors/2lokeshrao/EatsGram-New)](https://github.com/2lokeshrao/EatsGram-New/graphs/contributors)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr-raw/2lokeshrao/EatsGram-New.svg)](https://github.com/2lokeshrao/EatsGram-New/pulls)
+[![Activity](https://img.shields.io/github/last-commit/2lokeshrao/EatsGram-New.svg)](https://github.com/2lokeshrao/EatsGram-New/commits/main)
+[![Closed Issues](https://img.shields.io/github/issues-closed/2lokeshrao/EatsGram-New?color=success)](https://github.com/2lokeshrao/EatsGram-New/issues?q=is%3Aissue+is%3Aclosed)
+[![Closed Pull Requests](https://img.shields.io/badge/Closed%20Pull%20Requests-View%20on%20GitHub-blue.svg)](https://github.com/2lokeshrao/EatsGram-New/pulls?q=is%3Apr+is%3Aclosed)
 
 </div>
 
@@ -53,7 +41,7 @@
 
 <br>
 
-The Enatega Multi vendor food delivery system is perfect for customers looking to deploy a readymade and easy to use food ordering platform for their own food delivery and logistics business. Just like foodpanda and ubereats, our food delivery system can incorporate multiple restaurants as well as restaurants that operate in multiple locations. With access to the admin panel and separate applications for customers and riders, you can use this solution to create your own online food ordering and order/delivery management system instantaneously.
+The EatsGram Multi vendor food delivery system is perfect for customers looking to deploy a readymade and easy to use food ordering platform for their own food delivery and logistics business. Just like foodpanda and ubereats, our food delivery system can incorporate multiple restaurants as well as restaurants that operate in multiple locations. With access to the admin panel and separate applications for customers and riders, you can use this solution to create your own online food ordering and order/delivery management system instantaneously.
 
 Our solution is open source but the backend and API are proprietary, and can be obtained via paid license.
 
@@ -84,9 +72,9 @@ Our solution is open source but the backend and API are proprietary, and can be 
 
 Our food delivery system also comes with the following:
 
-- Enatega Multi vendor Customer App
-- Enatega Multi vendor Rider App
-- Enatega Multi vendor Restaurant App
+- EatsGram Multi vendor Customer App
+- EatsGram Multi vendor Rider App
+- EatsGram Multi vendor Restaurant App
 - Customer Food Ordering Website
 - Admin Web Dashboard
 - Application ProgramInterface Server
@@ -120,8 +108,6 @@ To run the module, you need to have nodejs installed on your machine. Once nodej
 The required credentials and keys have been set already. You can setup your own keys and credentials
 
 The version of nodejs should be between 18 to 20 (with 16 as minor version and 0 as patch)
-
-[![Guide Badge](https://img.shields.io/badge/Do_with_guided_tutorial-blue?style=for-the-badge&logo=book-reader)](https://EatsGram.com/multi-vendor-doc/)
 
 ## :information_source: Prerequisites: <a id="heading-4"></a>
 
@@ -164,11 +150,11 @@ NOTE: Email provider has been only been tested for gmail accounts
 
 |                                               Expo                                                |                                                   React-Navigation                                                   |                                                Apollo GraphQL                                                |                                               ReactJS                                                |                                                NodeJS                                                 |                                                 MongoDB                                                 |                                                   Firebase                                                   |
 | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| <a href="https://expo.dev/"><img src="./assets/expoicon.png" alt="Enatega Logos" width="100"></a> | <a href="https://reactnavigation.org/"><img src="./assets/react-navigation.png" alt="Enatega Logos" width="100"></a> | <a href="https://www.apollographql.com/"><img src="./assets/apollo.png" alt="Enatega Logos" width="100"></a> | <a href="https://reactjs.org/"><img src="./assets/react-js.png" alt="Enatega Logos" width="100"></a> | <a href="https://nodejs.org/en/"><img src="./assets/node-js.png" alt="Enatega Logos" width="100"></a> | <a href="https://www.mongodb.com/"><img src="./assets/mongoDB.png" alt="Enatega Logos" width="100"></a> | <a href="https://firebase.google.com/"><img src="./assets/firebase.png" alt="Enatega Logos" width="100"></a> |
+| <a href="https://expo.dev/"><img src="./assets/expoicon.png" alt="EatsGram Logos" width="100"></a> | <a href="https://reactnavigation.org/"><img src="./assets/react-navigation.png" alt="EatsGram Logos" width="100"></a> | <a href="https://www.apollographql.com/"><img src="./assets/apollo.png" alt="EatsGram Logos" width="100"></a> | <a href="https://reactjs.org/"><img src="./assets/react-js.png" alt="EatsGram Logos" width="100"></a> | <a href="https://nodejs.org/en/"><img src="./assets/node-js.png" alt="EatsGram Logos" width="100"></a> | <a href="https://www.mongodb.com/"><img src="./assets/mongoDB.png" alt="EatsGram Logos" width="100"></a> | <a href="https://firebase.google.com/"><img src="./assets/firebase.png" alt="EatsGram Logos" width="100"></a> |
 
 |                                                 React Native                                                 |                                                       React Router                                                       |                                                GraphQL                                                |                                                ExpressJS                                                 |                                                   React Strap                                                    |                                                Amplitude                                                |
 | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-| <a href="https://reactnative.dev/"><img src="./assets/react-native.png" alt="Enatega Logos" width="100"></a> | <a href="https://reactrouter.com/"><img src="./assets/react-router-svgrepo-com.png" alt="Enatega Logos" width="100"></a> | <a href="https://graphql.org/"><img src="./assets/graphQl-1.png" alt="Enatega Logos" width="100"></a> | <a href="https://expressjs.com/"><img src="./assets/express-js.png" alt="Enatega Logos" width="100"></a> | <a href="https://reactstrap.github.io/"><img src="./assets/React-strap.png" alt="Enatega Logos" width="100"></a> | <a href="https://amplitude.com/"><img src="./assets/amplitude.png" alt="Enatega Logos" width="100"></a> |
+| <a href="https://reactnative.dev/"><img src="./assets/react-native.png" alt="EatsGram Logos" width="100"></a> | <a href="https://reactrouter.com/"><img src="./assets/react-router-svgrepo-com.png" alt="EatsGram Logos" width="100"></a> | <a href="https://graphql.org/"><img src="./assets/graphQl-1.png" alt="EatsGram Logos" width="100"></a> | <a href="https://expressjs.com/"><img src="./assets/express-js.png" alt="EatsGram Logos" width="100"></a> | <a href="https://reactstrap.github.io/"><img src="./assets/React-strap.png" alt="EatsGram Logos" width="100"></a> | <a href="https://amplitude.com/"><img src="./assets/amplitude.png" alt="EatsGram Logos" width="100"></a> |
 
 ## :framed_picture: Screenshots: <a id="heading-6"></a>
 
@@ -198,7 +184,13 @@ NOTE: Email provider has been only been tested for gmail accounts
 
 ## :book: Documentation <a id="heading-8"></a>
 
-Find the link for the complete documentation of the Enatega Multi Vendor Solution [here](https://EatsGram.com/multivendor-documentation/).
+For complete documentation and setup guides, please refer to the individual module README files:
+
+- [EatsGram Admin Dashboard](./EatsGram-admin/README.md)
+- [EatsGram Customer Web](./EatsGram-web/README.md)
+- [EatsGram Customer App](./EatsGram-app/Issue.md)
+- [EatsGram Rider App](./EatsGram-rider/README.md)
+- [EatsGram Restaurant App](./EatsGram-store/README.md)
 
 ## :tv: Demo Videos: <a id="heading-14"></a>
 
@@ -208,17 +200,16 @@ Find the link for the complete documentation of the Enatega Multi Vendor Solutio
 
 ## :iphone: Demos: <a id="heading-9"></a>
 
-|                                                                                                                                               Customer App                                                                                                                                                |                                                                                                                                                   Rider App                                                                                                                                                    |                                                                                                                                                       Restaurant App                                                                                                                                                        |                                                   Customer Web                                                   |                                                    Admin Dashboard                                                     |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-|                                                                                          <a href="#heading-9" style="pointer-events: none;"><img src="./assets/logooo.png" alt="Enatega Logos" width="150"></a>                                                                                           |                                                                                          <a href="#heading-9" style="pointer-events: none;"><img src="./assets/Untitled-1-1.png" alt="Enatega Logos" width="150"></a>                                                                                          |                                                                                            <a href="#heading-9" style="pointer-events: none;"><img src="./assets/LOGOS-FOR-ENATGEA-res.png" alt="Enatega Logos" width="150"></a>                                                                                            | <a href="http://multivendor.EatsGram.com/"><img src="./assets/worldwide.png" alt="Enatega Logos" width="180"></a> | <a href="http://multivendor-admin.EatsGram.com/"><img src="./assets/worldwide.png" alt="Enatega Logos" width="180"></a> |
-| <a href="https://play.google.com/store/apps/details?id=com.EatsGram.multivendor"><img src="./assets/android_518705.png" alt="Android Logo" width="25"></a> <a href="https://apps.apple.com/pk/app/EatsGram-multivendor/id1526488093"><img src="./assets/social_10096939.png" alt="iOS Logo" width="25"></a> | <a href="https://play.google.com/store/apps/details?id=com.EatsGram.multirider"><img src="./assets/android_518705.png" alt="Android Logo" width="25"></a> <a href="https://apps.apple.com/pk/app/EatsGram-mulitvendor-rider/id1526674511"><img src="./assets/social_10096939.png" alt="iOS Logo" width="25"></a> | <a href="https://play.google.com/store/apps/details?id=multivendor.EatsGram.restaurant"><img src="./assets/android_518705.png" alt="Android Logo" width="25"></a> <a href="https://apps.apple.com/pk/app/EatsGram-multivendor-restaurant/id1526672537"><img src="./assets/social_10096939.png" alt="iOS Logo" width="25"></a> |
+|                                                                                                                                               Customer App                                                                                                                                                |                                                                                                                                                   Rider App                                                                                                                                                    |                                                                                                                                                       Restaurant App                                                                                                                                                        |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                          <a href="#heading-9" style="pointer-events: none;"><img src="./assets/logooo.png" alt="EatsGram Logos" width="150"></a>                                                                                           |                                                                                          <a href="#heading-9" style="pointer-events: none;"><img src="./assets/Untitled-1-1.png" alt="EatsGram Logos" width="150"></a>                                                                                          |                                                                                            <a href="#heading-9" style="pointer-events: none;"><img src="./assets/LOGOS-FOR-ENATGEA-res.png" alt="EatsGram Logos" width="150"></a>                                                                                            |
 
 ## :people_holding_hands: Contributors: <a id="heading-10"></a>
 
 <div align="center">
 <br>
-<a href="https://github.com/EatsGram-Team/EatsGram-Food-Delivery-Solution/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=EatsGram-Team/EatsGram-Food-Delivery-Solution" style="max-width: 50%; height: auto;" />
+<a href="https://github.com/2lokeshrao/EatsGram-New/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=2lokeshrao/EatsGram-New" style="max-width: 50%; height: auto;" />
 </a>
 </div>
 
@@ -228,19 +219,22 @@ The frontend source code for our solution is completely open source. However, th
 
 ## :mailbox_with_mail: Contact Us: <a id="heading-13"></a>
 
-[Check out the Product Page and Pricing and more for Enatega Multivendor Food Delivery Solution](https://EatsGram.com/?utm_source=github&utm_medium=referral&utm_campaign=github_guide&utm_id=12345678)
+For inquiries about the EatsGram Multi-vendor Food Delivery Solution, please reach out through the following channels:
+
+- GitHub Issues: [Create an issue](https://github.com/2lokeshrao/EatsGram-New/issues)
+- Email: lokeshrao050@gmail.com
 
 ## :computer: Project Setup Guide <a id="heading-15"></a>
 
-This section provides detailed instructions for setting up and running each component of the Enatega Multi-vendor Food Delivery Solution.
+This section provides detailed instructions for setting up and running each component of the EatsGram Multi-vendor Food Delivery Solution.
 
-### Enatega Admin Dashboard (Next.js)
+### EatsGram Admin Dashboard (Next.js)
 
 The admin dashboard allows you to manage restaurants, orders, riders, and more.
 
 ```bash
 # Navigate to the admin dashboard directory
-cd EatsGram-multivendor-admin
+cd EatsGram-admin
 
 # Install dependencies
 npm install
@@ -249,15 +243,15 @@ npm install
 npm run dev
 ```
 
-After running these commands, open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the admin dashboard. You can also CTRL+click on the localhost link that appears in your terminal.
+After running these commands, open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the admin dashboard.
 
-### Enatega Customer Web (React.js)
+### EatsGram Customer Web (React.js)
 
 The customer web application allows users to browse restaurants and place orders through a web browser.
 
 ```bash
 # Navigate to the customer web directory
-cd EatsGram-multivendor-web
+cd EatsGram-web
 
 # Install dependencies
 npm install
@@ -268,13 +262,13 @@ npm start
 
 After running these commands, the application will be available at [http://localhost:3000](http://localhost:3000) in your web browser.
 
-### Enatega Customer App (React Native)
+### EatsGram Customer App (React Native)
 
 The customer mobile application allows users to browse restaurants and place orders on their mobile devices.
 
 ```bash
 # Navigate to the customer app directory
-cd EatsGram-multivendor-app
+cd EatsGram-app
 
 # Install dependencies
 npm install
@@ -292,13 +286,13 @@ npm start -c
    - Android: Open the Expo Go app and scan the QR code
    - iOS: Use the device's camera app to scan the QR code
 
-### Enatega Rider App (React Native)
+### EatsGram Rider App (React Native)
 
 The rider app allows delivery personnel to manage and complete deliveries.
 
 ```bash
 # Navigate to the rider app directory
-cd EatsGram-multivendor-rider
+cd EatsGram-rider
 
 # Install dependencies
 npm install
@@ -316,13 +310,13 @@ npm start -c
    - Android: Open the Expo Go app and scan the QR code
    - iOS: Use the device's camera app to scan the QR code
 
-### Enatega Restaurant App (React Native)
+### EatsGram Restaurant App (React Native)
 
 The restaurant app allows restaurant owners to manage orders and their menu.
 
 ```bash
 # Navigate to the restaurant app directory
-cd EatsGram-multivendor-restaurant
+cd EatsGram-store
 
 # Install dependencies
 npm install
@@ -391,3 +385,7 @@ Then run:
 ```bash
 eas build --platform ios --profile development
 ```
+
+---
+
+**Created with ❤️ by EatsGram Team**
