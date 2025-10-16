@@ -1,0 +1,49 @@
+name: Cleanup Sensitive Files
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Remove LICENSE files
+        run: |
+          find . -name "LICENSE" ! -path "./.git/*" -type f -delete
+          echo "✅ Removed LICENSE files"
+
+      - name: Remove sensitive credential files
+        run: |
+          find . -type f \( -name "*google-service-account*" -o -name "*google-services.json" -o -name "*enategaprod*" -o -name "*credentials.json" \) ! -path "./.git/*" -delete
+          echo "✅ Removed sensitive credential files"
+
+      - name: Remove .env files with secrets
+        run: |
+          find . -type f -name ".env*" ! -path "./.git/*" ! -name ".env.example" -delete
+          echo "✅ Removed .env files"
+
+      - name: Commit cleanup if needed
+        run: |
+          git config user.name "EatsGram Cleanup Bot"
+          git config user.email "cleanup@eatsgram.local"
+          
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "Cleanup: Remove sensitive files and credentials" || echo "No changes to commit"
+            git push origin main || echo "Push failed - might be protected branch"
+          else
+            echo "No sensitive files to remove"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
