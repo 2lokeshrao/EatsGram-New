@@ -1,12 +1,12 @@
 # 🤖 EatsGram Automation Guide
 
-यह guide आपको बताता है कि कैसे EatsGram repository automatically upstream (enatega) से updates sync करता है।
+यह guide आपको बताता है कि कैसे EatsGram repository automatically upstream (eatsgram) से updates sync करता है।
 
 ## 📋 Overview
 
 EatsGram repository में **3 automated GitHub Actions workflows** हैं जो:
 
-1. **Original enatega repository से नई updates pull करते हैं**
+1. **Original eatsgram repository से नई updates pull करते हैं**
 2. **सभी references को automatically rebrand करते हैं**
 3. **Sensitive files को remove करते हैं**
 
@@ -22,11 +22,11 @@ EatsGram repository में **3 automated GitHub Actions workflows** हैं
 
 **क्या करता है:**
 ```
-Original enatega repo → Fetch latest changes
+Original eatsgram repo → Fetch latest changes
                     ↓
                 Merge करता है
                     ↓
-            enatega → EatsGram replace करता है
+            eatsgram → EatsGram replace करता है
                     ↓
         Sensitive files remove करता है
                     ↓
@@ -35,9 +35,9 @@ Original enatega repo → Fetch latest changes
 
 **Example:**
 ```
-enatega-multivendor-admin → EatsGram-admin
-enatega → eatsgram
-Enatega → EatsGram
+eatsgram-multivendor-admin → EatsGram-admin
+eatsgram → eatsgram
+EatsGram → EatsGram
 ```
 
 ---
@@ -48,7 +48,7 @@ Enatega → EatsGram
 - हर push या pull request पर
 
 **क्या करता है:**
-- सभी code files में `enatega` को `eatsgram` से replace करता है
+- सभी code files में `eatsgram` को `eatsgram` से replace करता है
 - Directory names को rename करता है
 - Automatically commit करता है
 
@@ -143,7 +143,7 @@ schedule:
 
 ### Step 1: Upstream Fetch
 ```bash
-git remote add upstream https://github.com/enatega/food-delivery-multivendor.git
+git remote add upstream https://github.com/eatsgram/eatsgram.git
 git fetch upstream main
 ```
 
@@ -155,10 +155,10 @@ git merge upstream/main --allow-unrelated-histories
 ### Step 3: Rebranding
 ```bash
 # सभी files में replace करना
-find . -type f -exec sed -i 's/enatega/eatsgram/g; s/Enatega/EatsGram/g' {} \;
+find . -type f -exec sed -i 's/eatsgram/eatsgram/g; s/EatsGram/EatsGram/g' {} \;
 
 # Directories rename करना
-mv enatega-multivendor-admin EatsGram-admin
+mv eatsgram-multivendor-admin EatsGram-admin
 ```
 
 ### Step 4: Cleanup
@@ -171,7 +171,7 @@ find . -name "LICENSE" -delete
 ### Step 5: Push करना
 ```bash
 git add -A
-git commit -m "Sync: Update from upstream enatega repository"
+git commit -m "Sync: Update from upstream eatsgram repository"
 git push origin main
 ```
 
@@ -246,7 +246,7 @@ git push origin main
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 - [Workflow Syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 - [Cron Syntax](https://crontab.guru/)
-- [Original enatega Repository](https://github.com/enatega/food-delivery-multivendor)
+- [Original eatsgram Repository](https://github.com/eatsgram/eatsgram)
 
 ---
 

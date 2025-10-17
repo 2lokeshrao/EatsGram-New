@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "Enatega Multi",
+    "name": "EatsGram Multi",
     "scheme": "EatsGrammultivendor",
     "version": "1.0.97",
-    "description": "Enatega is a starter kit food ordering app built in React Native using Expo for IOS and Android. It's made keeping good aesthetics in mind as well keeping the best coding practices in mind. Its fully customisable to easily help you in your next food delivery project. https://market.nativebase.io/view/react-native-food-delivery-backend-app",
+    "description": "EatsGram is a starter kit food ordering app built in React Native using Expo for IOS and Android. It's made keeping good aesthetics in mind as well keeping the best coding practices in mind. Its fully customisable to easily help you in your next food delivery project. https://market.nativebase.io/view/react-native-food-delivery-backend-app",
     "slug": "EatsGrammultivendor",
     "owner": "ninjas_code",
     "experiments": {
@@ -56,7 +56,7 @@
       "color": "#90E36D",
       "icon": "./assets/not-icon.png",
       "androidMode": "default",
-      "androidCollapsedTitle": "Enatega Multivendor"
+      "androidCollapsedTitle": "EatsGram Multivendor"
     },
     "android": {
       "versionCode": 97,
@@ -109,7 +109,7 @@
       [
         "expo-location",
         {
-          "locationAlwaysAndWhenInUsePermission": "Allow $Enatega Multivendor to use your location."
+          "locationAlwaysAndWhenInUsePermission": "Allow $EatsGram Multivendor to use your location."
         }
       ],
       "expo-font",

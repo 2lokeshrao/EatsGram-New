@@ -14,8 +14,8 @@ const AppFooter = () => {
     pathname?.endsWith("/discovery") ||
     pathname?.endsWith("/store");
 
-  const partnerWithEnatega = {
-    title: t("Footer.partnerWithEnatega"),
+  const partnerWithEatsGram = {
+    title: t("Footer.partnerWithEatsGram"),
     links: [
       { label: t("Footer.home"), link: "/", internal: true },
       { label: t("Footer.forRiders"), link: "/rider", internal: true },
@@ -45,15 +45,15 @@ const AppFooter = () => {
       { label: t("Footer.aboutUs"), link: "/about", internal: true },
       { label: t("Footer.termsConditions"), link: "/terms", internal: true },
       { label: t("Footer.privacyPolicy"), link: "/privacy", internal: true },
-      { label: t("Footer.contact"), link: "https://ninjascode.com/", internal: false },
-      { label: t("Footer.developers"), link: "https://ninjascode.com/", internal: false },
+      { label: t("Footer.contact"), link: "https://eatsgram.local/", internal: false },
+      { label: t("Footer.developers"), link: "https://eatsgram.local/", internal: false },
     ],
   };
 
   const followUs = {
     title: t("Footer.followUs"),
     links: [
-      { label: t("Footer.blog"), link: "https://ninjascode.com/blog", internal: false },
+      { label: t("Footer.blog"), link: "https://eatsgram.local/blog", internal: false },
       {
         label: t("Footer.instagram"),
         link: "https://www.instagram.com/ninjascodeofficial?igsh=ajFoeGxud3FqYnd3",
@@ -84,7 +84,7 @@ const AppFooter = () => {
             <AppLinks />
           </div>
           <div className="p-2">
-            <FooterLinks section={partnerWithEnatega} />
+            <FooterLinks section={partnerWithEatsGram} />
           </div>
           <div className="p-2">
             <FooterLinks section={products} />
