@@ -1,0 +1,115 @@
+🚀 Starting EatsGram Modules Integration...
+==========================================
+[0;32m✅ Integrations folder found[0m
+
+==========================================
+[0;34mℹ️  Integrating EatsGram-web...[0m
+==========================================
+[0;34mℹ️  Copying integrations folder...[0m
+[0;32m✅ Integrations folder copied[0m
+[0;32m✅ Config directory created[0m
+[0;34mℹ️  Creating database config...[0m
+[0;32m✅ Database config created[0m
+[0;34mℹ️  Creating payment gateway config...[0m
+[0;32m✅ Payment gateway config created[0m
+[0;32m✅ Services directory created[0m
+[0;34mℹ️  Creating database service...[0m
+[0;32m✅ Database service created[0m
+[0;34mℹ️  Creating payment service...[0m
+[0;32m✅ Payment service created[0m
+[0;34mℹ️  Creating .env.local...[0m
+[0;32m✅ .env.local created[0m
+[0;32m✅ EatsGram-web integration completed![0m
+
+==========================================
+[0;34mℹ️  Integrating EatsGram-admin...[0m
+==========================================
+[0;34mℹ️  Copying integrations folder...[0m
+[0;32m✅ Integrations folder copied[0m
+[0;32m✅ Config directory created[0m
+[0;34mℹ️  Creating database config...[0m
+[0;32m✅ Database config created[0m
+[0;34mℹ️  Creating payment gateway config...[0m
+[0;32m✅ Payment gateway config created[0m
+[0;32m✅ Services directory created[0m
+[0;34mℹ️  Creating database service...[0m
+[0;32m✅ Database service created[0m
+[0;34mℹ️  Creating payment service...[0m
+[0;32m✅ Payment service created[0m
+[0;34mℹ️  Creating .env.local...[0m
+[0;32m✅ .env.local created[0m
+[0;32m✅ EatsGram-admin integration completed![0m
+
+==========================================
+[0;34mℹ️  Integrating EatsGram-app...[0m
+==========================================
+[0;34mℹ️  Copying integrations folder...[0m
+[0;32m✅ Integrations folder copied[0m
+[0;32m✅ Config directory created[0m
+[0;34mℹ️  Creating database config...[0m
+[0;32m✅ Database config created[0m
+[0;34mℹ️  Creating payment gateway config...[0m
+[0;32m✅ Payment gateway config created[0m
+[0;32m✅ Services directory created[0m
+[0;34mℹ️  Creating database service...[0m
+[0;32m✅ Database service created[0m
+[0;34mℹ️  Creating payment service...[0m
+[0;32m✅ Payment service created[0m
+[0;34mℹ️  Creating .env.local...[0m
+[0;32m✅ .env.local created[0m
+[0;32m✅ EatsGram-app integration completed![0m
+
+==========================================
+[0;34mℹ️  Integrating EatsGram-rider...[0m
+==========================================
+[0;34mℹ️  Copying integrations folder...[0m
+[0;32m✅ Integrations folder copied[0m
+[0;32m✅ Config directory created[0m
+[0;34mℹ️  Creating database config...[0m
+[0;32m✅ Database config created[0m
+[0;34mℹ️  Creating payment gateway config...[0m
+[0;32m✅ Payment gateway config created[0m
+[0;32m✅ Services directory created[0m
+[0;34mℹ️  Creating database service...[0m
+[0;32m✅ Database service created[0m
+[0;34mℹ️  Creating payment service...[0m
+[0;32m✅ Payment service created[0m
+[0;34mℹ️  Creating .env.local...[0m
+[0;32m✅ .env.local created[0m
+[0;32m✅ EatsGram-rider integration completed![0m
+
+==========================================
+[0;34mℹ️  Integrating EatsGram-store...[0m
+==========================================
+[0;34mℹ️  Copying integrations folder...[0m
+[0;32m✅ Integrations folder copied[0m
+[0;32m✅ Config directory created[0m
+[0;34mℹ️  Creating database config...[0m
+[0;32m✅ Database config created[0m
+[0;34mℹ️  Creating payment gateway config...[0m
+[0;32m✅ Payment gateway config created[0m
+[0;32m✅ Services directory created[0m
+[0;34mℹ️  Creating database service...[0m
+[0;32m✅ Database service created[0m
+[0;34mℹ️  Creating payment service...[0m
+[0;32m✅ Payment service created[0m
+[0;34mℹ️  Creating .env.local...[0m
+[0;32m✅ .env.local created[0m
+[0;32m✅ EatsGram-store integration completed![0m
+
+==========================================
+[0;32m✅ All modules integrated successfully![0m
+==========================================
+
+📋 Next Steps:
+1. Update .env.local in each module with your credentials
+2. Run 'npm install' in each module
+3. Test database and payment gateway connections
+4. Deploy to production
+
+📚 Documentation:
+- Main Guide: ./integrations/README.md
+- Database Guide: ./integrations/database/mysql/README.md
+- Payment Guide: ./integrations/payment-gateways/razorpay/README.md
+- Setup Guide: ./MODULES_INTEGRATION_SETUP.md
+
